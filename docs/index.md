@@ -1,17 +1,3 @@
-# Welcome to MkDocs
+# Reentregas DAW
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Esta web consta de varias correcciones realizadas en las prácticas del módulo Despliegue de Aplicaciones Web del curso 2024/2025 realizadas por Jorge Pradillo Hinterberger. Espero que os sean de utilidad.
