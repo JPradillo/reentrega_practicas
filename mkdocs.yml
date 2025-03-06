@@ -1,1 +1,19 @@
-site_name: My Docs
+site_name: Despliegue de aplicaciones web
+site_url: https://jpradillo.github.io/reentrega_practicas/
+theme:
+  name: material
+  features:
+    - highlight
+  
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - pymdownx.highlight:
+      linenums: true
+
+nav:
+  - 'Reentrega de prácticas': 
+    - 'Práctica 2.3 - Proxy inverso con Nginx': 'practica2-3.md'
+    - 'Práctica 2.4 - Proxy inverso con balanceo de carga con Nginx': 'practica2-4.md'
+    - 'Práctica 2.5 - Proxy inverso con balanceo de carga con SSL en Nginx': 'practica2-5.md'
